@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science field and i'm always passionate and curious about learning something new
 - 📫 My Email Address : alee.stvr96@gmail.com
-- Me On Telegram,Instagram And Twitter : @alee_stvr 
+- Telegram : @alee_stvr 
 
 <!---
 aleeOstovar/aleeOstovar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
