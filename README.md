@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aleeOstovar
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on data science field and i'm always passionate and curious about learning something new
+- 💞️ I’m looking to collaborate on  field of Machine Learning and i'm always passionate and curious about learning something new
 - 📫 My Email Address : alee.stvr96@gmail.com
 - LinkedIn : alee-ostovar
 - Telegram : @alee_stvr 
